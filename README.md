@@ -78,13 +78,9 @@ end
 
 warps(worldSafe,doorID)
 
-function Use(list)
-    if inventory:getItemCount(5706) >= 200 then
-        while ssp ~= 5708 do 
-        getBot:use(5706)
-        sleep(400)
-    end
-end
+while ssp ~= 0 do 
+getBot:use(5706)
+sleep(400)
 
 function Dropf(list)
     while bot.gem_count > pricepack do
