@@ -80,6 +80,7 @@ warps(worldSafe,doorID)
 
 function ssp(list)
     while idssp ~= 0 do
+        bot.auto_collect = true
         getBot:use(ssp)
         sleep(400)
     end
