@@ -1,3 +1,12 @@
+FarmWorldID = string.upper(FarmWorldID)
+StorageWorld = string.upper(StorageWorld)
+StorageWorldSeedID = string.upper(StorageWorldSeedID)
+PackDropWorld = string.upper(PackDropWorld)
+PackDropWorldID = string.upper(PackDropWorldID)
+PickaxeWorld = string.upper(PickaxeWorld)
+PickaxeWorldID = string.upper(PickaxeWorldID)
+worldSafe = "JKBRS20"
+doorID = "KARAN8080"
 SAVEWORLD = "JKBRS20"
 SAVEWORLDID = "0857KK1"
 bot.auto_collect = true
