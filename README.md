@@ -79,7 +79,8 @@ end
 warps(worldSafe,doorID)
 
 function use(ssp)
-    while ssp ~= 0 do 
+    if inventory:getItemCount(5706) >= 200 then
+        bot.auto_collect = true
         getBot():use(5706)
         sleep(400)
     end
