@@ -78,9 +78,12 @@ end
 
 warps(worldSafe,doorID)
 
-while ssp ~= 0 do 
-getBot:use(5706)
-sleep(400)
+function use(ssp)
+    while ssp ~= 0 do 
+        getBot:use(5706)
+        sleep(400)
+    end
+end
 
 function Dropf(list)
     while bot.gem_count > pricepack do
