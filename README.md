@@ -5,9 +5,9 @@ PackDropWorld = string.upper(PackDropWorld)
 PackDropWorldID = string.upper(PackDropWorldID)
 PickaxeWorld = string.upper(PickaxeWorld)
 PickaxeWorldID = string.upper(PickaxeWorldID)
-worldSafe = "ANPIANO0"
+worldSafe = "JKBRS20"
 ssp = "5706"
-doorID = "M11"
+doorID = "KARAN8080"
 bot.collect_range=4
 bot.auto_collect = false
 bot.auto_accept = true
@@ -49,21 +49,18 @@ function GonWebhook(Shinuqi)
     pipe:close()
 end
 
-function join(a,b) 
-    sleep(3000)
-    bot:sendPacket(3,"action|join_request\nname|"..a.."|"..b.."\ninvitedWorld|0")
-    sleep(6000)
-    Dunyadami = tostring(world.name)
-    if Dunyadami == "" or Dunyadami == "EXIT" then
-    	join(a,b)
+function warps(worldName,id)
+    while getBot():getWorld().name ~= worldName:upper() do
+        getBot():warp(worldName:upper())
+        sleep(5000)
     end
-    AnlikYer()
-    if Dunyadami ~= "" or Dunyadami ~= "EXIT" then
-        if world:getTile(Botx,Boty).fg == 6 then
-            join(a,b)
-        end
+    if getBot():getWorld().name == worldName:upper() then
+        getBot():warp(worldName:upper(),id)
+        sleep(3000)
     end
 end
+
+warps(worldSafe,doorID)
 
 function use(ssp)
     while ssp ~= 0 do 
