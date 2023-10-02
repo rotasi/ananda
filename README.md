@@ -65,19 +65,6 @@ function join(a,b)
     end
 end
 
-function warps(worldName,id)
-    while getBot():getWorld().name ~= worldName:upper() do
-        getBot():warp(worldName:upper())
-        sleep(5000)
-    end
-    if getBot():getWorld().name == worldName:upper() then
-        getBot():warp(worldName:upper(),id)
-        sleep(3000)
-    end
-end
-
-warps(worldSafe,doorID)
-
 function use(ssp)
     while ssp ~= 0 do 
         getBot():use(5706)
