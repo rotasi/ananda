@@ -235,7 +235,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
 	"\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end
-    if inventory:getItemCount(27) >= 5 then
+    if inventory:getItemCount(27) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -252,7 +252,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(23) >= 5 then
+    if inventory:getItemCount(23) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -269,7 +269,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(581) >= 5 then
+    if inventory:getItemCount(581) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -286,7 +286,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(194) >= 5 then
+    if inventory:getItemCount(194) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -303,7 +303,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(104) >= 5 then
+    if inventory:getItemCount(104) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -320,7 +320,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(191) >= 5 then
+    if inventory:getItemCount(191) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -337,7 +337,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(376) >= 5 then
+    if inventory:getItemCount(376) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -354,7 +354,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(1307) >= 5 then
+    if inventory:getItemCount(1307) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -371,7 +371,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(697) >= 5 then
+    if inventory:getItemCount(697) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -388,7 +388,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(880) >= 5 then
+    if inventory:getItemCount(880) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -405,7 +405,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(167) >= 5 then
+    if inventory:getItemCount(167) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -422,7 +422,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(1323) >= 5 then
+    if inventory:getItemCount(1323) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -439,7 +439,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(165) >= 5 then
+    if inventory:getItemCount(165) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -456,7 +456,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(3783) >= 5 then
+    if inventory:getItemCount(3783) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -473,7 +473,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(369) >= 5 then
+    if inventory:getItemCount(369) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -490,7 +490,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(25) >= 5 then
+    if inventory:getItemCount(25) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -507,7 +507,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(171) >= 5 then
+    if inventory:getItemCount(171) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -524,7 +524,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(53) >= 5 then
+    if inventory:getItemCount(53) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -541,7 +541,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(179) >= 5 then
+    if inventory:getItemCount(179) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -558,7 +558,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(249) >= 5 then
+    if inventory:getItemCount(249) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -575,7 +575,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(177) >= 5 then
+    if inventory:getItemCount(177) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -592,7 +592,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(1325) >= 5 then
+    if inventory:getItemCount(1325) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -609,7 +609,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(337) >= 5 then
+    if inventory:getItemCount(337) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -626,7 +626,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(189) >= 5 then
+    if inventory:getItemCount(189) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -643,7 +643,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(169) >= 5 then
+    if inventory:getItemCount(169) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -660,7 +660,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(55) >= 5 then
+    if inventory:getItemCount(55) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -677,7 +677,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(223) >= 5 then
+    if inventory:getItemCount(223) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -694,7 +694,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(175) >= 5 then
+    if inventory:getItemCount(175) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -711,7 +711,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(885) >= 5 then
+    if inventory:getItemCount(885) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -728,7 +728,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(119) >= 5 then
+    if inventory:getItemCount(119) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -745,7 +745,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(3573) >= 5 then
+    if inventory:getItemCount(3573) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -762,7 +762,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(199) >= 5 then
+    if inventory:getItemCount(199) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -779,7 +779,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(681) >= 5 then
+    if inventory:getItemCount(681) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -796,7 +796,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(655) >= 5 then
+    if inventory:getItemCount(655) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -813,7 +813,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(107) >= 5 then
+    if inventory:getItemCount(107) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -830,7 +830,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(163) >= 5 then
+    if inventory:getItemCount(163) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -847,7 +847,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(31) >= 5 then
+    if inventory:getItemCount(31) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -864,7 +864,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(671) >= 5 then
+    if inventory:getItemCount(671) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -881,7 +881,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(889) >= 5 then
+    if inventory:getItemCount(889) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -898,7 +898,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(887) >= 5 then
+    if inventory:getItemCount(887) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -915,7 +915,7 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(193) >= 5 then
+    if inventory:getItemCount(193) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
@@ -932,14 +932,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(127) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(127) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(127, inventory:getItemCount(127))
             sleep(500)
             bot:moveLeft()
         end
@@ -949,14 +949,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(1433) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(1433) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(1433, inventory:getItemCount(1433))
             sleep(500)
             bot:moveLeft()
         end
@@ -966,14 +966,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(173) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(173) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(173, inventory:getItemCount(173))
             sleep(500)
             bot:moveLeft()
         end
@@ -983,14 +983,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(7631) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(7631) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(7631, inventory:getItemCount(7631))
             sleep(500)
             bot:moveLeft()
         end
@@ -1000,14 +1000,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(413) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(413) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(413, inventory:getItemCount(413))
             sleep(500)
             bot:moveLeft()
         end
@@ -1017,14 +1017,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(3571) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(3571) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(3571, inventory:getItemCount(3571))
             sleep(500)
             bot:moveLeft()
         end
@@ -1034,14 +1034,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(3569) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(3569) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(3569, inventory:getItemCount(3569))
             sleep(500)
             bot:moveLeft()
         end
@@ -1051,14 +1051,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(2809) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(2809) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(2809, inventory:getItemCount(2809))
             sleep(500)
             bot:moveLeft()
         end
@@ -1068,14 +1068,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(9393) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(9393) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(9393, inventory:getItemCount(9393))
             sleep(500)
             bot:moveLeft()
         end
@@ -1085,14 +1085,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
             sleep(500)
             bot:moveLeft()
         end
@@ -1102,14 +1102,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
             sleep(500)
             bot:moveLeft()
         end
@@ -1119,14 +1119,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
             sleep(500)
             bot:moveLeft()
         end
@@ -1136,14 +1136,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
             sleep(500)
             bot:moveLeft()
         end
@@ -1153,14 +1153,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
             sleep(500)
             bot:moveLeft()
         end
@@ -1170,14 +1170,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
             sleep(500)
             bot:moveLeft()
         end
@@ -1187,14 +1187,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
             sleep(500)
             bot:moveLeft()
         end
@@ -1204,14 +1204,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
             sleep(500)
             bot:moveLeft()
         end
@@ -1221,14 +1221,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
             sleep(500)
             bot:moveLeft()
         end
@@ -1238,14 +1238,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
             sleep(500)
             bot:moveLeft()
         end
@@ -1255,14 +1255,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
             sleep(500)
             bot:moveLeft()
         end
@@ -1272,14 +1272,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
             sleep(500)
             bot:moveLeft()
         end
@@ -1289,14 +1289,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
             sleep(500)
             bot:moveLeft()
         end
@@ -1306,14 +1306,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
             sleep(500)
             bot:moveLeft()
         end
@@ -1323,14 +1323,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
             sleep(500)
             bot:moveLeft()
         end
@@ -1340,14 +1340,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
             sleep(500)
             bot:moveLeft()
         end
@@ -1357,14 +1357,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
             sleep(500)
             bot:moveLeft()
         end
@@ -1374,14 +1374,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
             sleep(500)
             bot:moveLeft()
         end
@@ -1391,14 +1391,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
             sleep(500)
             bot:moveLeft()
         end
@@ -1408,14 +1408,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
             sleep(500)
             bot:moveLeft()
         end
@@ -1425,14 +1425,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
             sleep(500)
             bot:moveLeft()
         end
@@ -1442,14 +1442,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
             sleep(500)
             bot:moveLeft()
         end
@@ -1459,14 +1459,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
             sleep(500)
             bot:moveLeft()
         end
@@ -1476,14 +1476,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
             sleep(500)
             bot:moveLeft()
         end
@@ -1493,14 +1493,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
             sleep(500)
             bot:moveLeft()
         end
@@ -1510,14 +1510,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
             sleep(500)
             bot:moveLeft()
         end
@@ -1527,14 +1527,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
             sleep(500)
             bot:moveLeft()
         end
@@ -1544,14 +1544,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
             sleep(500)
             bot:moveLeft()
         end
@@ -1561,14 +1561,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
             sleep(500)
             bot:moveLeft()
         end
@@ -1578,14 +1578,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
             sleep(500)
             bot:moveLeft()
         end
@@ -1595,14 +1595,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
             sleep(500)
             bot:moveLeft()
         end
@@ -1612,14 +1612,14 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(WindID) >= 5 then
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
             sleep(500)
             bot:moveLeft()
         end
@@ -1629,14 +1629,932 @@ function Dropf(list)
         "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
         "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
     end 
-    if inventory:getItemCount(aoskaok) >= 5 then
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
         bot.auto_collect = false
         Reconnectdropwind()
         join(StorageWorld,StorageWorldSeedID)
-        while (inventory:getItemCount(WindID) > 0) do
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
             Reconnectdropseed()
             sleep(500)
-            bot:drop(WindID, inventory:getItemCount(WindID))
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
+            sleep(500)
+            bot:moveLeft()
+        end
+        GonWebhook("<:botonline:1154550333398323210> GROWID : "..bot.name..
+        "\n <:world:1154550372547973180> WORLD : "..world.name..
+        "\n <:botlevel:1154550409344589916> LEVEL : "..bot.level..
+        "\n <:gems:994218103032520724> PACK : "..floats(ssp).ucanlar..
+        "\n <:jam:987145988470898758> UpTime Bot : "..SecondTT(os.difftime(os.time(), startT)))
+    end 
+    if inventory:getItemCount(OWKOWOWKOWKWOKWOWKOWKWOKWOWKWOWOKWKW) >= 200 then
+        bot.auto_collect = false
+        Reconnectdropwind()
+        join(StorageWorld,StorageWorldSeedID)
+        while (inventory:getItemCount(WKOWKOWKOWKWOKWOWKOWKOWKOWK) > 0) do
+            Reconnectdropseed()
+            sleep(500)
+            bot:drop(WKOWKOWKOWKWOKWOKWOWKOWKWOW, inventory:getItemCount(KKKKKWOWKOWKOWKOWKOWKWOKWOWKOWK))
             sleep(500)
             bot:moveLeft()
         end
