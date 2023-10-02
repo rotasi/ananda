@@ -79,9 +79,10 @@ end
 warps(worldSafe,doorID)
 
 function use(5706)
-    bot.auto_collect = true
-    getBot():use(5706)
-    sleep(400)
+    while idssp ~= 0 do 
+        bot.auto_collect = true
+        getBot():use(5706)
+        sleep(400)
     end
 end
 
