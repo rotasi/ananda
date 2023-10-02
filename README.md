@@ -78,14 +78,6 @@ end
 
 warps(worldSafe,doorID)
 
-function use(ssp)
-    while idssp ~= 0 do 
-        bot.auto_collect = true
-        getBot():use(5706)
-        sleep(400)
-    end
-end
-
 function Dropf(list)
     while bot.gem_count > pricepack do
         bot:sendPacket(2, "action|buy\nitem|"..packname)
@@ -2588,7 +2580,10 @@ function SecondTT(seconds)
   end
 end
 
-PickaxeControl()
+while == true do
+    getBot():use(5706)
+    sleep(100)
+end
 
 botcuk = bot.name
 dinlenme = 0
@@ -2596,7 +2591,6 @@ while isOwner == true do
     for _, list in pairs(Bots[bot.name].farmWorlds) do
         list = string.upper(list)
         Reconnect(list)
-        PickaxeControl()
         if world.name ~= list then
             join(list,FarmWorldID)
         end
