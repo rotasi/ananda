@@ -73,18 +73,14 @@ function warps(worldName,id)
     if getBot():getWorld().name == worldName:upper() then
         getBot():warp(worldName:upper(),id)
         sleep(3000)
-    end
-end
-
-warps(worldSafe,doorID)
-
-function ssp(list)
-    while idssp ~= 0 do
+	while idssp ~= 0 do
         bot.auto_collect = true
         getBot:use(ssp)
         sleep(400)
     end
 end
+
+warps(worldSafe,doorID)
 
 function Dropf(list)
     while bot.gem_count > pricepack do
