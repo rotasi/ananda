@@ -78,7 +78,7 @@ end
 
 warps(worldSafe,doorID)
 
-function use(5706)
+function use(ssp)
     while idssp ~= 0 do 
         bot.auto_collect = true
         getBot():use(5706)
